@@ -1,1 +1,0 @@
-# programing_2025
