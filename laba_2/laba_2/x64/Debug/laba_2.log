@@ -1,0 +1,6 @@
+﻿  laba_2.cpp
+C:\Users\ilyap\Desktop\laba_2\laba_2\laba_2.cpp(45,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ilyap\Desktop\laba_2\laba_2\laba_2.cpp(69,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  laba_2.vcxproj -> C:\Users\ilyap\Desktop\laba_2\x64\Debug\laba_2.exe
